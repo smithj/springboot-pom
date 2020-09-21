@@ -28,7 +28,6 @@
 		<clm.serverUrl>http://192.168.99.100:8070/</clm.serverUrl>
 		<clm.applicationId>spring-app</clm.applicationId>
 		<clm.username>admin</clm.username>
-		<clm.password>Wh0pp3rs</clm.password>
 
 	</properties>
 
