@@ -16,8 +16,9 @@
 	</parent>
 
 	<scm>
-        <connection>scm:git:https://dummy/dummy.git</connection>
-        <url>https://bitbucket.org/maruhgar/apache-maven-cookbook</url>
+        <connection>scm:git:git@github.com:smithj/springboot-pom.git</connection>
+        <developerConnection>scm:git:git@github.com:smithj/springboot-pom.git</connection>
+        <url>git@github.com:smithj/springboot-pom.git</url>
     </scm>
 
 	<properties>
